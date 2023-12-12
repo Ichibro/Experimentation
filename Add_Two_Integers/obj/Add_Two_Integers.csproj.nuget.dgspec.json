@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tenka\\OneDrive\\Desktop\\Programming\\Experimentation\\Add_Two_Integers\\Add_Two_Integers.csproj": {}
+    "C:\\Users\\tenka\\OneDrive\\Desktop\\Programming\\Add_Two_Integers\\Add_Two_Integers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tenka\\OneDrive\\Desktop\\Programming\\Experimentation\\Add_Two_Integers\\Add_Two_Integers.csproj": {
+    "C:\\Users\\tenka\\OneDrive\\Desktop\\Programming\\Add_Two_Integers\\Add_Two_Integers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tenka\\OneDrive\\Desktop\\Programming\\Experimentation\\Add_Two_Integers\\Add_Two_Integers.csproj",
+        "projectUniqueName": "C:\\Users\\tenka\\OneDrive\\Desktop\\Programming\\Add_Two_Integers\\Add_Two_Integers.csproj",
         "projectName": "Add_Two_Integers",
-        "projectPath": "C:\\Users\\tenka\\OneDrive\\Desktop\\Programming\\Experimentation\\Add_Two_Integers\\Add_Two_Integers.csproj",
+        "projectPath": "C:\\Users\\tenka\\OneDrive\\Desktop\\Programming\\Add_Two_Integers\\Add_Two_Integers.csproj",
         "packagesPath": "C:\\Users\\tenka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tenka\\OneDrive\\Desktop\\Programming\\Experimentation\\Add_Two_Integers\\obj\\",
+        "outputPath": "C:\\Users\\tenka\\OneDrive\\Desktop\\Programming\\Add_Two_Integers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
