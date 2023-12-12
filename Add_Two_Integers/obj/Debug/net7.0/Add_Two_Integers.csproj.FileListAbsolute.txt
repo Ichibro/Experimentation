@@ -1,0 +1,15 @@
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\obj\Debug\net7.0\Add_Two_Integers.csproj.AssemblyReference.cache
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\obj\Debug\net7.0\Add_Two_Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\obj\Debug\net7.0\Add_Two_Integers.AssemblyInfoInputs.cache
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\obj\Debug\net7.0\Add_Two_Integers.AssemblyInfo.cs
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\obj\Debug\net7.0\Add_Two_Integers.csproj.CoreCompileInputs.cache
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\bin\Debug\net7.0\Add_Two_Integers.exe
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\bin\Debug\net7.0\Add_Two_Integers.deps.json
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\bin\Debug\net7.0\Add_Two_Integers.runtimeconfig.json
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\bin\Debug\net7.0\Add_Two_Integers.dll
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\bin\Debug\net7.0\Add_Two_Integers.pdb
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\obj\Debug\net7.0\Add_Two_Integers.dll
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\obj\Debug\net7.0\refint\Add_Two_Integers.dll
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\obj\Debug\net7.0\Add_Two_Integers.pdb
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\obj\Debug\net7.0\Add_Two_Integers.genruntimeconfig.cache
+C:\Users\tenka\OneDrive\Desktop\Programming\Add_Two_Integers\obj\Debug\net7.0\ref\Add_Two_Integers.dll
