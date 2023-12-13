@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add_Two_Integers", "Add_Two_Integers.csproj", "{66669345-2C24-4E70-81CE-39B3C05F73B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add_Two_Integers", "Add_Two_Integers.csproj", "{66669345-2C24-4E70-81CE-39B3C05F73B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_In_CSharp", "..\Calculator_In_C#\Calculator_In_CSharp.csproj", "{DAF24776-91A9-4B84-A609-94C317BC3DFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{66669345-2C24-4E70-81CE-39B3C05F73B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66669345-2C24-4E70-81CE-39B3C05F73B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66669345-2C24-4E70-81CE-39B3C05F73B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF24776-91A9-4B84-A609-94C317BC3DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF24776-91A9-4B84-A609-94C317BC3DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF24776-91A9-4B84-A609-94C317BC3DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF24776-91A9-4B84-A609-94C317BC3DFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

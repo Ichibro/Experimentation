@@ -1,0 +1,15 @@
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\bin\Debug\net7.0\Calculator_In_CSharp.exe
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\bin\Debug\net7.0\Calculator_In_CSharp.deps.json
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\bin\Debug\net7.0\Calculator_In_CSharp.runtimeconfig.json
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\bin\Debug\net7.0\Calculator_In_CSharp.dll
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\bin\Debug\net7.0\Calculator_In_CSharp.pdb
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\obj\Debug\net7.0\Calculator_In_CSharp.csproj.AssemblyReference.cache
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\obj\Debug\net7.0\Calculator_In_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\obj\Debug\net7.0\Calculator_In_CSharp.AssemblyInfoInputs.cache
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\obj\Debug\net7.0\Calculator_In_CSharp.AssemblyInfo.cs
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\obj\Debug\net7.0\Calculator_In_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\obj\Debug\net7.0\Calculator_In_CSharp.dll
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\obj\Debug\net7.0\refint\Calculator_In_CSharp.dll
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\obj\Debug\net7.0\Calculator_In_CSharp.pdb
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\obj\Debug\net7.0\Calculator_In_CSharp.genruntimeconfig.cache
+C:\Users\tenka\OneDrive\Desktop\Programming\Experimentation\Calculator_In_C#\obj\Debug\net7.0\ref\Calculator_In_CSharp.dll
