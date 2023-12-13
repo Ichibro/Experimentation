@@ -1,5 +1,4 @@
 ﻿
-
 public class Solution
 {
 
@@ -17,6 +16,12 @@ public class Solution
 
         double num2 = StoreInput();
 
+        //This should handle the calculation/operations for two numbers
+        Calculate(num1, num2);
+    }
+
+    static char Calculate(double num1, double num2)
+    {
         // Prompt user to choose an option
         Console.WriteLine("Choose an option from the list:");
         Console.WriteLine("\ta - Add");
@@ -26,35 +31,36 @@ public class Solution
         Console.Write("Your choice? ");
 
         // Utilize switch statements for each operation
-        switch (Console.ReadLine()) 
+        char userInput;
+        while (true)
         {
-            case "a":
-                Console.WriteLine("Your result: " + num1 + " + " + num2 + " = " + (num1 + num2));
-                break;
-            case "s":
-                Console.WriteLine("Your result: " + num1 + " - " + num2 + " = " + (num1 - num2));
-                break;
-            case "m":
-                Console.WriteLine("Your result: " + num1 + " * " + num2 + " = " + (num1 * num2));
-                break;
-            case "d":
-                Console.WriteLine("Your result: " + num1 + " / " + num2 + " = " + (num1 / num2));
-                break;
+
+            if (char.TryParse(Console.ReadLine(), out userInput))
+            {
+
+                // If the parse is successful, we check userInput using switch for operation and break out of loop
+                switch (userInput)
+                {
+                    case 'a':
+                        Console.WriteLine("Your result: " + num1 + " + " + num2 + " = " + (num1 + num2));
+                        break;
+                    case 's':
+                        Console.WriteLine("Your result: " + num1 + " - " + num2 + " = " + (num1 - num2));
+                        break;
+                    case 'm':
+                        Console.WriteLine("Your result: " + num1 + " * " + num2 + " = " + (num1 * num2));
+                        break;
+                    case 'd':
+                        Console.WriteLine("Your result: " + num1 + " / " + num2 + " = " + (num1 / num2));
+                        break;
+                }
+                // Wait for the user to respond before terminating
+                Console.Write("Press any key to close...");
+                Console.ReadKey();
+                return userInput;
+            }
+            Console.WriteLine("Invalid char. Retry.");
         }
-        // Wait for the user to respond before terminating
-        Console.Write("Press any key to close...");
-        Console.ReadKey();
-
-    }
-
-    static double Sum(double num1, double num2)
-    {
-        // This will add the values of num1 and num2 and record to result        
-        double result = num1 + num2;
-
-        Console.WriteLine("The total sum is: " + result);
-
-        return result;
     }
 
     static double StoreInput()
@@ -72,7 +78,6 @@ public class Solution
             }
             Console.WriteLine("Invalid number. Retry.");
         }
-
 
     }
 
